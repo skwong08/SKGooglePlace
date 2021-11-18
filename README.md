@@ -2,9 +2,11 @@
 
 ## Requirements before start project
 Set up Google API key
+
 Refer: https://developers.google.com/maps/documentation/javascript/get-api-key
 
 MUST enable billing account before you can start using the Google APIs
+
 Refer: https://support.google.com/googleapi/answer/6158867?hl=en
 
 MUST enable the items below, if your API key is restricted.
